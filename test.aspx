@@ -15,8 +15,6 @@
           <asp:Label ID="Label2" runat="server" Text="Name of the Company"></asp:Label>
           <asp:TextBox ID="txt2" runat="server">Name of the Company</asp:TextBox>
           <br />
-          <asp:Label ID="Label3" runat="server" Text="Text 3"></asp:Label>
-          <asp:TextBox ID="TextBox1" runat="server">Text 3</asp:TextBox>
         </div>
     </form>
 </body>
