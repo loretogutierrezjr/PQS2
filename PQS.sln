@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PQS", "PQS.csproj", "{CAD823CC-29FD-40DA-8A72-B05E4655B9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAD823CC-29FD-40DA-8A72-B05E4655B9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAD823CC-29FD-40DA-8A72-B05E4655B9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAD823CC-29FD-40DA-8A72-B05E4655B9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAD823CC-29FD-40DA-8A72-B05E4655B9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {637B8605-3751-4488-9337-FC830491A0F2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\MyWebProjects\PQS\obj\Debug\PQS.csproj.AssemblyReference.cache
+D:\MyWebProjects\PQS\obj\Debug\PQS.csproj.CoreCompileInputs.cache
+D:\MyWebProjects\PQS\bin\PQS.dll.config
+D:\MyWebProjects\PQS\bin\PQS.dll
+D:\MyWebProjects\PQS\bin\PQS.pdb
+D:\MyWebProjects\PQS\obj\Debug\PQS.dll
+D:\MyWebProjects\PQS\obj\Debug\PQS.pdb
